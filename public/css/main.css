@@ -1,5 +1,5 @@
 .img-title {
-  width: 18%;
+  width: 15%;
 }
 
 /*
@@ -22,5 +22,7 @@ main {
 }
 */
 
-flexbox grid 
-layout
+h2 {
+  color: #478ADF;
+  font-family: 'lobster', cursive;
+}
